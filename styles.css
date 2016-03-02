@@ -1,0 +1,15 @@
+.banner-overlay {
+	background-color: black !important;
+}
+
+#the-guys .banner-overlay {
+	background: url('./images/brian_dan.JPG');
+	background-size: cover;
+	background-position: center 20%;
+}
+
+#brian-tripp .banner-overlay {
+	background: url('./images/brian_tripp.JPG');
+	background-size: cover;
+	background-position: center 20%;
+} 
